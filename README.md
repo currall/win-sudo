@@ -2,4 +2,4 @@
 
 run cmd command as admin from existing cmd process
 
-usage: sudo <command>
+usage: sudo command
